@@ -1,0 +1,19 @@
+time complexity
+
+o(n) = linear time 
+time is directlty proportional to the input size
+jitna input hoga utna time lagega
+har element ko touch ho raha hai 
+each element access karna padta hai 
+
+space complexity = o(1), constant time
+jitna bhi element ho time constant rehta hai 
+address pata rehta hai 
+exact position pata hoti hai 
+
+o(n^2)- quadratic time
+it is a nested loop 
+two loops inside each other
+
+o(log n) = logarithmic time
+logarithmic time means the time is directly proportional to the input size
