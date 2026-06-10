@@ -1,0 +1,37 @@
+object oriented programming
+
+1. inheritnce
+
+when we utilize the properties of parent class in child class
+class animal
+      sound
+      heart
+
+class dog(animal)
+where animal is parent class and dog is child class
+we can write sound and heart methods in dog class without writing in animal class
+the status of your parent class is preserved and again used in child class
+for example genes are passed from parent to child
+
+2. polymorphism
+poly means many and morphism means forms
+one thing can take many forms.
+for example i am student in collage and i am child in home and i am passenger in bus
+yek hi function alag alag tarike se behave karta hai 
+
+3. encapsulation
+when we are making data private we are encapsulating data
+when we are wrapping a data we call it encapsulation
+you are all in IT industry distributed in different parts as ui frontend developer, finance, backend developer etc
+salary is differently hiked and not disclosed to others
+the data is encapsulated by not disclosing the salary
+
+4. abstraction
+we are hidding unnecessary information from user
+for example you go to atm machine and try to widraw money but where is the server uski jarurat nahi hai 
+unnecessary information is hidden from user 
+
+
+
+class is a blueprint to make objects
+can i make number of classes yesss
