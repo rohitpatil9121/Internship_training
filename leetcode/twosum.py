@@ -1,6 +1,5 @@
 class Solution(object):
     def twoSum(self, nums, target):
-
         num = {}
 
         for index, value in enumerate(nums):
