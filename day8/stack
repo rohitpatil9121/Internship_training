@@ -1,0 +1,25 @@
+#what is stack 
+
+stack is a linear data structure which follows a particular order in which the operations are performed.
+the order may be LIFO(Last In First Out) or FILO(First In Last Out)
+stacks are implemented using arrays and linked lists
+
+#what is binary search
+
+
+#what is sorting algorithm
+
+#bubble sort
+A simple sorting algorithm that repeatedly compares adjacent elements and swaps them if they are in the wrong order.
+
+#selection sort
+An algorithm that repeatedly selects the smallest (or largest) element from the unsorted portion of the array and places it at the beginning.
+
+#insertion sort
+An algorithm that repeatedly selects an element from the unsorted portion of the array and inserts it into its correct position in the sorted portion.
+
+#merge sort
+A divide-and-conquer algorithm that divides the array into two halves, recursively sorts them, and then merges them back together in sorted order.
+
+#quick sort
+A divide-and-conquer algorithm that selects a pivot element, partitions the array around the pivot, and recursively sorts the subarrays on either side of the pivot.
